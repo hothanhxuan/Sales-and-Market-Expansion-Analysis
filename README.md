@@ -1,4 +1,4 @@
-# 📊 Project 2: Global Superstore Sales Dashboard
+# 📊 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard (PowerBI)
 
 ## 🎯 Objective
 The goal of this project is to build an **analytic dashboard** using Power BI.  
