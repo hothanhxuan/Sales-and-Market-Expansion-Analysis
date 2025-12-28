@@ -61,6 +61,7 @@ The analysis is based on three datasets:
 | Orders | Contains detailed transaction and customer information        | ~51,290  |
 | People | Sales representatives by region                               | 13       |
 | Returns| Returned order records                                        | ~1,100   |
+
 Together, these datasets provide visibility into sales performance, people contribution, and operational risk through returns.
 
 ### 📊 Data structure 
