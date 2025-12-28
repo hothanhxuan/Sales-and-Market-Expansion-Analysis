@@ -45,6 +45,7 @@ As the company experiences rapid growth, senior management requires consolidated
   3. Which product categories and SKUs drive profit — and which erode it? 
 This project transforms raw transactional data into a decision-support Power BI dashboard, enabling leadership to shift from high-level reporting to actionable, strategy-focused insights. 
 
+### 🎯Project Outcome:
 ---
 
 ## 📂 Dataset Description & Data Structure
@@ -128,10 +129,7 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 | Orders    | People   | Region    | Many-to-One (multiple orders belong to one region) |
 | Orders    | Returns  | Order ID  | One-to-One or Left Join (not all orders are returned) |
 
-
----
-
-### ✅ Analytical Capabilities
+#### ✅ Analytical Capabilities
 This data model enables flexible slicing and filtering across:
 - Time
 - Market
@@ -140,19 +138,6 @@ This data model enables flexible slicing and filtering across:
 - Product
 - Salesperson
 
-The Power BI data model follows a fact–dimension structure:
-Orders → central fact table
-People and Returns → supporting dimension tables
-Relationships
-Orders ↔ People
-Join key: Region
-Relationship: One-to-Many
-Purpose: Analyze sales performance by salesperson and region
-Orders ↔ Returns
-Join key: Order ID
-Relationship: One-to-One / One-to-Many
-Purpose: Calculate return rates and identify risk areas by market or product
-This structure enables flexible slicing by time, market, region, category, product, and salesperson.
 
 
 
