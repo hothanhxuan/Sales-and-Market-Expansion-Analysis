@@ -1,4 +1,26 @@
-# 📊 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard (PowerBI)
+# 🌍 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard (PowerBI)
+
+
+**Domain:**  
+Sales Analytics (Sales Strategy Department)
+
+![Image](https://github.com/user-attachments/assets/af75f445-54fb-4dbe-8967-082ceaf9d210)
+
+Author: Susan Ho  
+Date: 2025-12-10  
+Tools Used: Power BI  
+
+---
+
+## 📑 Table of Contents  
+1. [📌 Background & Overview](#-background--overview)  
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
+3. [🧠 Design Thinking Process](#-design-thinking-process)  
+4. [⚒️ Main Process](#️-main-process)  
+5. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+6. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+
+---
 
 ## 🎯 Objective
 The goal of this project is to build an **analytic dashboard** using Power BI.  
