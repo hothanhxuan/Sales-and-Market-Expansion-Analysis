@@ -52,8 +52,8 @@ This project transforms raw transactional data into a decision-support Power BI 
 ### 🔍 Data source Overview
 - **Source**: Kaggle
 - **Size**: The Orders table contains 51,290 records.
-- **Format**: CSV
-The analysis is based on three datasets:
+- **Format**: CSV 
+The analysis is based on three datasets: 
 | Dataset | Description                                                  | Records  |
 |--------|---------------------------------------------------------------|----------|
 | Orders | Contains detailed transaction and customer information        | ~51,290  |
