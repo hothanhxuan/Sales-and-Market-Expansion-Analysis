@@ -149,14 +149,7 @@ This data model enables flexible slicing and filtering across:
 - Product
 - Salesperson
 
-
-
-
-
-
----
-
-## 🛠️ Workflow
+#### 🛠️ Workflow
 1. Review the project brief and dataset.  
 2. Complete the **Empathy** section in the Design Thinking file.  
 3. Explore reference dashboards (Power BI, Tableau, Maven).  
@@ -167,11 +160,7 @@ This data model enables flexible slicing and filtering across:
 8. Build **Version 2** and validate against Design Thinking iterations.  
 9. Finalize **Version 3**.  
 
-⚠️ **Note**: A professional dashboard must combine **layout, colors, and meaningful insights**. Since this project can be part of your **portfolio for job applications**, ensure high-quality output.  
-
----
-
-## 🎨 Resources
+#### 🎨 Resources
 - **Color & Themes**  
   - [ColorSpace](https://mycolor.space/)  
   - [Coolors](https://coolors.co/)  
@@ -185,6 +174,31 @@ This data model enables flexible slicing and filtering across:
 
 ---
 
-## 📌 Final Note
+## 🧠 Design Thinking Process
+
+---
+
+## ⚒️ Main Process
+
+---
+
+## 📊 Key Insights & Visualizations
+### I. Dashboard Executive Summary
+![Image](https://github.com/user-attachments/assets/d4807d75-1c5a-4130-9c11-21025e704e46)
+
+
+### II. Dashboad Market Analysis
+![Image](https://github.com/user-attachments/assets/81ccb26d-53cd-495b-8363-1496048e6873)
+
+
+### III. Dashboard Product Analysis 
+![Image](https://github.com/user-attachments/assets/9f264013-a195-4f8f-a788-b299aac015c6)
+![Image](https://github.com/user-attachments/assets/e6f0eecb-ddef-4f62-bdf2-8eb88cad85c6)
+
+
+---
+
+## 🔎 Final Conclusion & Recommendations
+📌 Final Note
 > *“This project is an opportunity to create a professional portfolio dashboard.  
 > Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.”*  
