@@ -37,7 +37,7 @@ This project is built for:
 - **Data Analysts / Business Analysts** as a demonstration of end-to-end analytical thinking, from business understanding to insight-driven recommendations
 - **Recruiters & Hiring Managers** evaluating skills in data modeling, KPI design, Power BI storytelling, and strategic analysis
 
-### 🏢 Business Context and Question 
+### 🏢 Business Context and ❓Question 
 Superstore is a global retail company operating across multiple markets worldwide. 
 As the company experiences rapid growth, senior management requires consolidated insights to answer three critical business questions: 
   1. What is the current overall business performance? 
@@ -46,6 +46,14 @@ As the company experiences rapid growth, senior management requires consolidated
 This project transforms raw transactional data into a decision-support Power BI dashboard, enabling leadership to shift from high-level reporting to actionable, strategy-focused insights. 
 
 ### 🎯Project Outcome:
+- **Revenue increased significantly, but profit margins remained broadly flat**, confirming a scale-driven growth pattern rather than efficiency-led improvement. Total revenue reached **$12.64M**, while overall margin held at **11.61%**. In 2014 alone, revenue grew **+26.25% YoY**, but margin declined slightly by **0.23 pp**, indicating rising cost pressure and discount-driven growth.
+- the United States continues to dominate total revenue and profit, but **Canada** stands out as as **a high-margin niche market** (~28%) despite modest sales volume, indicating pricing power or lower fulfillment costs.
+- **Africa (+23.56% YoY)** and **EMEA (+47.42% YoY)**  recorded the fastest year-over-year growth, highlighting clear expansion potential, although margin volatility suggests the need for tighter cost and logistics control before scaling further.
+- New customer acquisition remained structurally weak, with only 15 new customers in 2014 (0.99%). However, **Oceania and Africa attracted a disproportionately higher share of new customers**, while **99.01% of total revenue continued to come from loyal, returning buyers**. Repeat purchase behavior strengthened, with the repeat-customer rate rising from 82.03% (2013) to 87.62% (2014).
+- **Technology led both revenue growth and profitability**, generating $4.74M in sales and $663.8K in profit (13.99% margin), accounting for the largest share of total profit. However, return rates in selected technology SKUs—notably printers and advanced equipment—materially diluted margins, as evidenced by loss-making products with margins as low as -80%.
+- **Copiers delivered the highest profit per unit**, with margins reaching 17.13% and flagship SKUs such as *Canon imageCLASS 2200* achieving 40.91% margin. Conversely, **low-performing items such as Tables (-8.47% margin)** and specific Furniture and Machinery SKUs destroyed value, collectively dragging Furniture category margin down to 6.94%, less than half that of Technology or Office Supplies.
+
+
 ---
 
 ## 📂 Dataset Description & Data Structure
