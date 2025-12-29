@@ -188,7 +188,7 @@ This data model enables flexible slicing and filtering across:
 
 
 ### III. Dashboard Product Analysis 
-![Image](https://github.com/user-attachments/assets/9f264013-a195-4f8f-a788-b299aac015c6)
+![Image](https://github.com/user-attachments/assets/9ddfc986-fa6a-4760-9c29-d80c3138edbc)
 ![Image](https://github.com/user-attachments/assets/e6f0eecb-ddef-4f62-bdf2-8eb88cad85c6)
 
 
