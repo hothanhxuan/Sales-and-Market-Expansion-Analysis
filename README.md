@@ -188,13 +188,18 @@ This data model enables flexible slicing and filtering across:
 
 
 ### III. Dashboard Product Analysis 
-![Image](https://github.com/user-attachments/assets/9ddfc986-fa6a-4760-9c29-d80c3138edbc)
-![Image](https://github.com/user-attachments/assets/e6f0eecb-ddef-4f62-bdf2-8eb88cad85c6)
+![Image](https://github.com/user-attachments/assets/603545ec-94de-471f-b091-b9053eec56aa)
+![Image](https://github.com/user-attachments/assets/cffe80e8-756e-466d-b8c9-f4f5b2d5a9f2)
 
 
 ---
 
 ## 🔎 Final Conclusion & Recommendations
+
+
+
+
+
 📌 Final Note
 > *“This project is an opportunity to create a professional portfolio dashboard.  
 > Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.”*  
