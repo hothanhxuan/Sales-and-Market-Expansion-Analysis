@@ -80,6 +80,7 @@ Together, these datasets provide visibility into sales performance, people contr
 
 ### 📊 Data structure 
 - 🛒 **Table 1: Orders**
+  
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
 | `Order ID`      | `VARCHAR`   | Unique identifier for each order.       |
@@ -104,14 +105,16 @@ Together, these datasets provide visibility into sales performance, people contr
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
 
 
-- 🔄 **Table 2: Returns** 
+- 🔄 **Table 2: Returns**
+  
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
 
   
-- 👥 **Table 3: People** 
+- 👥 **Table 3: People**
+  
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
