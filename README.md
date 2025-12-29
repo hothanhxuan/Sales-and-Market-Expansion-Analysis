@@ -42,7 +42,8 @@ Superstore is a global retail company operating across multiple markets worldwid
 As the company experiences rapid growth, senior management requires consolidated insights to answer three critical business questions: 
   1. What is the current overall business performance? 
   2. Which markets should be prioritized for expansion? 
-  3. Which product categories and SKUs drive profit — and which erode it? 
+  3. Which product categories and SKUs drive profit — and which erode it?
+ 
 This project transforms raw transactional data into a decision-support Power BI dashboard, enabling leadership to shift from high-level reporting to actionable, strategy-focused insights. 
 
 ### 🎯Project Outcome:
