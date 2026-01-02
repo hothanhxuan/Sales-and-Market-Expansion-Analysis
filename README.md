@@ -1,4 +1,4 @@
-# 🌍 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard (PowerBI)
+# 🌍 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard 
 
 
 **Domain:**  
