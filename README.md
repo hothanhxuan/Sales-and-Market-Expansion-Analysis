@@ -80,9 +80,6 @@ Together, these datasets provide visibility into sales performance, people contr
 
 ### 📊 Data structure 
 - 🛒 **Table 1: Orders**
-
-<details>
-  <summary>Click để mở</summary>
   
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
@@ -106,7 +103,7 @@ Together, these datasets provide visibility into sales performance, people contr
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
-</details>
+
 
 - 🔄 **Table 2: Returns**
   
