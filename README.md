@@ -24,7 +24,7 @@ Tools Used: Power BI
 
 ## 📌 Background & Overview
 The goal of this project is to build an **analytic dashboard** using Power BI.  
-Through this project, we will practice:
+Through this project, we:
 - Understanding stakeholder reporting needs.  
 - Designing dashboard layout, structure, and color themes.  
 - Building interactions within reports.  
@@ -80,7 +80,9 @@ Together, these datasets provide visibility into sales performance, people contr
 
 ### 📊 Data structure 
 - 🛒 **Table 1: Orders**
-  
+
+<details>
+  <summary>Click để mở</summary>
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
 | `Order ID`      | `VARCHAR`   | Unique identifier for each order.       |
@@ -103,7 +105,7 @@ Together, these datasets provide visibility into sales performance, people contr
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
-
+</details>
 
 - 🔄 **Table 2: Returns**
   
@@ -136,6 +138,36 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 | Orders    | People   | Region    | Many-to-One (multiple orders belong to one region) |
 | Orders    | Returns  | Order ID  | One-to-One or Left Join (not all orders are returned) |
 
+---
+
+## 🧠 Design Thinking Process
+
+---
+
+## ⚒️ Main Process
+
+---
+
+## 📊 Key Insights & Visualizations
+### I. Dashboard Executive Summary
+![Image](https://github.com/user-attachments/assets/d4807d75-1c5a-4130-9c11-21025e704e46)
+
+
+### II. Dashboad Market Analysis
+![Image](https://github.com/user-attachments/assets/4c4125f4-6d3a-4200-be24-d8d3a688ba5f)
+
+
+### III. Dashboard Product Analysis 
+![Image](https://github.com/user-attachments/assets/603545ec-94de-471f-b091-b9053eec56aa)
+![Image](https://github.com/user-attachments/assets/cffe80e8-756e-466d-b8c9-f4f5b2d5a9f2)
+
+
+---
+
+## 🔎 Final Conclusion & Recommendations
+
+
+---
 #### ✅ Analytical Capabilities
 This data model enables flexible slicing and filtering across:
 - Time
@@ -167,36 +199,6 @@ This data model enables flexible slicing and filtering across:
   - [Bar Chart Customization](https://www.youtube.com/watch?v=8h2r8ZrYvK4)  
 - **Reference Dashboards**  
   - [Power BI Theme Gallery](https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery)  
-
----
-
-## 🧠 Design Thinking Process
-
----
-
-## ⚒️ Main Process
-
----
-
-## 📊 Key Insights & Visualizations
-### I. Dashboard Executive Summary
-![Image](https://github.com/user-attachments/assets/d4807d75-1c5a-4130-9c11-21025e704e46)
-
-
-### II. Dashboad Market Analysis
-![Image](https://github.com/user-attachments/assets/4c4125f4-6d3a-4200-be24-d8d3a688ba5f)
-
-
-### III. Dashboard Product Analysis 
-![Image](https://github.com/user-attachments/assets/603545ec-94de-471f-b091-b9053eec56aa)
-![Image](https://github.com/user-attachments/assets/cffe80e8-756e-466d-b8c9-f4f5b2d5a9f2)
-
-
----
-
-## 🔎 Final Conclusion & Recommendations
-
-
 
 
 
