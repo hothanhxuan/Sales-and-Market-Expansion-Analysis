@@ -102,7 +102,7 @@ The analysis is based on three datasets:
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
-<details>
+
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records. 
 
