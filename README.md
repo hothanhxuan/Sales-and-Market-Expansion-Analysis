@@ -218,6 +218,7 @@ Superstore is showing strong and steady growth across all key financial metrics:
 ---
 ## 💡 Deep dive into Canada Insights for EMEA Market Expansion 
 #### ❔ Why Canada Has the Highest Profit Margin
+
 <details>
   <summary>See details </summary>
 
