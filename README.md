@@ -218,7 +218,6 @@ Superstore is showing strong and steady growth across all key financial metrics:
 ---
 ## 💡 Deep dive into Canada Insights for EMEA Market Expansion 
 #### ❔ Why Canada Has the Highest Profit Margin
-
 <details>
   <summary>See details </summary>
 
@@ -241,7 +240,6 @@ Order-level data shows that Canada executes many transactions with impressive ma
 <details>
 
 #### 🌍 EMEA Market Expansion Plan & Applying Canada’s Best Practices
-
 <details>
   <summary>See details </summary>
 
@@ -273,7 +271,6 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 <details>
 
 #### ⚠️ Strategic Risks
-
 <details>
   <summary>See details </summary>
 
@@ -343,5 +340,5 @@ This data model enables flexible slicing and filtering across:
 
 📌 Final Note
 > *“This project is an opportunity to create a professional portfolio dashboard.  
-> Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.
-> BELIEVE YOU CAN DO 10X BETTER THAN FIRST VERSION”*  
+> Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.  
+> BELIEVE YOU CAN DO 10X BETTER THAN FIRST VERSION”* 
