@@ -17,7 +17,7 @@ Tools Used: Power BI
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
 4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
-6. [💡 Deep dive into Canada Insights for EMEA Market Expansion](#deep-dive-into-canada-insights-for-emea-market--expansion)  
+6. [💡 Deep dive into Canada Insights for EMEA Market Expansion](#-deep-dive-into-canada-insights-for-emea-market--expansion)  
 7. [✨ More information](#-more-information)
 
 ---
