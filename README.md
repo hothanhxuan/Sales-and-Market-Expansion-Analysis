@@ -108,21 +108,27 @@ The analysis is based on three datasets:
 </details>
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records.
-
+<details>
+  <summary>See details </summary>
+  
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
 
+</details>
     
 - 👥 **Table 3: People**. Returned order records, with 1,100 records.
-
+<details>
+  <summary>See details </summary>
+  
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
 
-    
+</details>
+
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
 
@@ -144,23 +150,42 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 
 ---
 
-## ⚒️ Main Process
-
----
-
 ## 📊 Key Insights & Visualizations
 ### I. Dashboard Executive Summary
 ![Image](https://github.com/user-attachments/assets/d4807d75-1c5a-4130-9c11-21025e704e46)
+Based on the Dashboard Overview, Superstore’s business is showing strong and steady growth.
 
+- Financial highlights: Total revenue reached $12.64 million, up 51.5% compared to last year. Profit also increased by 52.3%, reaching $1.5 million.
+- Operational efficiency: The total number of orders reached 25,000, a 51.7% increase. The profit margin remained stable at 11.61%.
+- Quality management: The return rate slightly decreased from 4.75% to 4.68%, indicating improvements in product quality or delivery service.
+- Growth trend: Trend charts show that both revenue and profit have been increasing consistently from 2011 to 2014, with profit margin peaking at 11.95% in 2013 before a slight adjustment in 2014.
 
 ### II. Dashboad Market Analysis
 ![Image](https://github.com/user-attachments/assets/4c4125f4-6d3a-4200-be24-d8d3a688ba5f)
+Markets to Prioritize for Expansion
 
+- High-growth potential markets (New expansion):
+    - EMEA and Africa: These regions show the highest year-on-year revenue growth, 59.8% and 53.38%, respectively.
+    - Canada: Although current revenue is not high, Canada has an exceptionally strong profit margin of 26.62%, the highest across all markets.
+- Key markets to maintain (Retention focus):
+    - APAC and EU: These are the top contributors to profit, with $436K from APAC and $373K from EU. Within APAC, North Asia contributed the most ($165K), followed by Central Asia ($132K).
+    - Key personnel: Anna Andreadi leads EU sales with $2.9 million, showing that the sales model there is very effective and could be replicated elsewhere.
 
 ### III. Dashboard Product Analysis 
 ![Image](https://github.com/user-attachments/assets/603545ec-94de-471f-b091-b9053eec56aa)
 ![Image](https://github.com/user-attachments/assets/cffe80e8-756e-466d-b8c9-f4f5b2d5a9f2)
+Analysis from the Dashboard Product Analysis shows a clear distinction between profit drivers and eroders:
 
+- Profit Drivers:
+    - Technology: The leading category in terms of profit margin (13.99%).
+    - Office Supplies: Strong profit margin (13.69%) with high order volume.
+    - Top-performing sub-categories: According to the Pareto chart, Copiers, Phones, and Bookcases contribute most to profit. For example, Binders alone generated $72,000 profit with a 15.7% margin.
+- Profit Eroders:
+    - Furniture: Very low profit margin at only 6.94%, despite high revenue.
+    - Tables: The main problem area. Although they generate significant revenue ($757,042, 33% of Furniture revenue), they caused a net loss of $64,083.
+- Specific SKUs:
+    - High-revenue SKU: “Hon Executive Leather Armchair…” generated about $58,190.
+    - Loss-making SKU: Some orders, such as the Ibico EPK-21 bookbinding system in Chicago, caused losses of over $2,900 per transaction. Some Sharp copiers also recorded losses in certain markets.
 
 ---
 
@@ -206,4 +231,5 @@ This data model enables flexible slicing and filtering across:
 
 📌 Final Note
 > *“This project is an opportunity to create a professional portfolio dashboard.  
-> Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.”*  
+> Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.
+> BELIEVE YOU CAN DO 10X BETTER THAN FIRST VERSION”*  
