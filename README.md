@@ -40,10 +40,19 @@ This project is built for:
 ### 🏢 Business Context and ❓Question 
 Superstore is a global retail company operating across multiple markets worldwide. 
 As the company experiences rapid growth, senior management requires consolidated insights to answer three critical business questions: 
-  1. What is the current overall business performance? 
-  2. Which markets should be prioritized for expansion? 
+  1. What is the current overall business performance?
+    - Purpose: Understanding the company’s health at a glance — revenue, profit, operational efficiency, and quality metrics.
+    - Why it matters: Leaders can see whether growth is sustainable, if margins are stable, and where operational improvements may be needed.
+    - Data perspective: Total revenue, net profit, profit margin, order volumes, return rates, and trend analysis over time.
+  2. Which markets should be prioritized for expansion?
+    - Purpose: Identifying regions with the best combination of growth potential and profitability.
+    - Why it matters: Expansion requires investment; targeting the right markets ensures capital efficiency and long-term returns.
+    - Data perspective: Market-level revenue, YoY growth, profit margins, and customer distribution across regions (e.g., APAC, EMEA, Canada).
   3. Which product categories and SKUs drive profit — and which erode it?
- 
+    - Purpose: Optimizing the product portfolio to maximize profitability while reducing losses.
+    - Why it matters: Not all products contribute equally; understanding profit drivers helps focus marketing, pricing, and inventory strategies, while identifying “loss-making” SKUs prevents margin erosion.
+    - Data perspective: Category-level and SKU-level revenue, profit margins, Pareto analysis, and return rates.
+     
 This project transforms raw transactional data into a decision-support Power BI dashboard, enabling leadership to shift from high-level reporting to actionable, strategy-focused insights. 
 
 ### 🎯Project Outcome:
