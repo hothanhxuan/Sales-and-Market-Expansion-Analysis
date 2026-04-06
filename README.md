@@ -280,6 +280,7 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 #### ⚠️ Strategic Risks
 
 ✅ Recommendation
+
 Apply Canada’s model via localized optimization:
 - Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
 - Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
