@@ -279,16 +279,11 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 
 #### ⚠️ Strategic Risks
 
-✅ Recommendation
-
-Apply Canada’s model via localized optimization:
-- Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
-- Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
+Applying Canada’s high-margin, selective-order model to EMEA (high growth, low margin) brings opportunities but also strategic risks:
 
 <details>
   <summary>See details </summary>
 
-Applying Canada’s high-margin, selective-order model to EMEA (high growth, low margin) brings opportunities but also strategic risks:
 1. Growth vs. Profitability
 
 EMEA is currently the system’s fastest-growing market (YoY Growth 59.8%).
@@ -309,6 +304,12 @@ EMEA serves ~1,100 customers, far more than Canada (153).
 Average system Return Rate: 4.68%.
 
 -> Risk: High-value orders (Copiers, Phones) can result in large negative impact if returned. Focusing on high-margin products without improving quality & delivery may erode profits faster than selling small office supplies.
+
+✅ Recommendation
+
+Apply Canada’s model via localized optimization:
+- Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
+- Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
 
 </details>
 
