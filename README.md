@@ -168,7 +168,7 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 
 ## 📊 Key Insights & Visualizations
 ### I. Dashboard Executive Summary
-![Image](https://github.com/user-attachments/assets/d4807d75-1c5a-4130-9c11-21025e704e46)
+![Image](https://github.com/user-attachments/assets/931b9c9a-e5f8-40e4-8cfb-1cf902e33478)
 Based on the Dashboard Overview, Superstore’s business is showing strong and steady growth.
 
 - Financial highlights: Total revenue reached $12.64 million, up 51.5% compared to last year. Profit also increased by 52.3%, reaching $1.5 million.
